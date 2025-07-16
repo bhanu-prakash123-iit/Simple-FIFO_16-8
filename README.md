@@ -12,7 +12,8 @@ This module implements a simple **16x8 FIFO** memory system in Verilog. It suppo
 - `fifo_16_to_8_tb.v` – Testbench to simulate write/read operations
 
 ## 📷 Waveform (optional)
-You can capture waveform from ModelSim or GTKWave and include a screenshot here.
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/f854bd4f-c050-408c-8386-0df6b8237ba0" />
+
 
 ## ✅ Features Tested
 - Reset clears all memory and output

@@ -13,6 +13,8 @@ This module implements a simple **16x8 FIFO** memory system in Verilog. It suppo
 
 ## 📷 Waveform 
 <img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/f854bd4f-c050-408c-8386-0df6b8237ba0" />
+<img width="992" height="382" alt="image" src="https://github.com/user-attachments/assets/907bdac7-922f-4ab0-a802-6d857539e8d0" />
+
 
 
 ## ✅ Features Tested
